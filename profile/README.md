@@ -8,4 +8,4 @@ The Minecraft Modding Team behind the Dragon Mounts mods.
 [![Reddit Page](https://img.shields.io/badge/Reddit-Dragon%20Mounts-Red?style=for-the-badge&logo=Reddit&logoColor=white&labelColor=%23FF4500&color=grey)](https://www.reddit.com/r/DragonMounts/)
 [![CurseForge Page](https://img.shields.io/badge/CurseForge-Dragon%20Mounts%20Team-Red?style=for-the-badge&logo=Curseforge&logoColor=white&labelColor=%23F16436&color=grey)](https://www.curseforge.com/members/dragonmountsteam/projects)
 [![Modrinth Page](https://img.shields.io/badge/Modrinth-Dragon%20Mounts%20Team-Red?style=for-the-badge&logo=Modrinth&logoColor=white&labelColor=%2300AF5C&color=grey)](https://modrinth.com/organization/Dragon-Mounts-Team)
-![QQ Chat](https://img.shields.io/badge/QQ-Dragon%20Mounts%20Team-Red?style=for-the-badge&logo=QQ&logoColor=white&labelColor=%231EBAFC&color=grey)
+[![QQ Chat](https://img.shields.io/badge/QQ-Dragon%20Mounts%20Team-Red?style=for-the-badge&logo=QQ&logoColor=white&labelColor=%231EBAFC&color=grey)](https://qm.qq.com/q/iGfH75Ldsc)
